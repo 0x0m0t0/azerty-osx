@@ -1,6 +1,6 @@
 ## Azerty OSX commands
 
-> **note** use ` \` as escape character and `\`` for code.
+> **note** use `\` as escape character and ``` for code.
 
 | Glyph  | Shortcut | 
 | :---: | ---       | 
