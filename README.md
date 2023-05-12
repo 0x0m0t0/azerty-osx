@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-1. one
-2. two
-3. three
-4. Another entry to the list
 =======
 ## Azerty OSX commands
 
@@ -16,6 +11,3 @@
 | | |
 | | |
 | | |
->>>>>>> develop
-
-Testing the branching
