@@ -1,4 +1,4 @@
-## Azerty OSX commands
+## Azerty OSX Shortcuts Cheatsheet
 
 | Glyph  | Shortcut | 
 | :---: | ---       | 
